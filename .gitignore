@@ -1,0 +1,22 @@
+# Секреты и конфигурации (НИКОГДА не должны попасть в сеть)
+.env
+.env.local
+
+# Бэкенд (Python / FastAPI / Celery)
+venv/
+__pycache__/
+*.pyc
+temp_audio/  
+*.wav
+*.webm
+*.mp3
+*.ogg
+
+# Фронтенд (React / Vite / Node.js)
+node_modules/
+build/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

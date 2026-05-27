@@ -1,0 +1,6 @@
+{
+  "name": "ГолосМед",
+  "description": "AI Medical SaaS that converts doctor's speech to structured JSON records",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
