@@ -97,7 +97,7 @@ git push -u origin main
 ```bash
 git add .
 git commit -m "Описание того, что вы изменили"
-git push
+git push -u origin main
 ```
 
 ---
