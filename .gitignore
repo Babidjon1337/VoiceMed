@@ -6,7 +6,6 @@
 venv/
 __pycache__/
 *.pyc
-database/
 *.sqlite3
 temp_audio/  
 *.wav
